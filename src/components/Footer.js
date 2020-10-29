@@ -25,33 +25,33 @@ function Footer() {
                     <div className="footer-link-items">
                         <h2>About Us</h2>
                         <Link to='/sign-up'>How it works</Link>
-                        <Link to='/web'>Testimonials</Link>
-                        <Link to='/web'>Careers</Link>
-                        <Link to='/web'>Investors</Link>
-                        <Link to='/web'>Terms of Service</Link>
+                        <Link to='/'>Testimonials</Link>
+                        <Link to='/'>Careers</Link>
+                        <Link to='/'>Investors</Link>
+                        <Link to='/'>Terms of Service</Link>
                     </div>
                     <div class='footer-link-items'>
                         <h2>Contact Us</h2>
-                        <Link to='/web'>Contact</Link>
-                        <Link to='/web'>Support</Link>
-                        <Link to='/web'>Destinations</Link>
-                        <Link to='/web'>Sponsorships</Link>
+                        <Link to='/'>Contact</Link>
+                        <Link to='/'>Support</Link>
+                        <Link to='/'>Destinations</Link>
+                        <Link to='/'>Sponsorships</Link>
                     </div>
                 </div>
                 <div className='footer-link-wrapper'>
                     <div class='footer-link-items'>
                         <h2>Videos</h2>
-                        <Link to='/web'>Submit Video</Link>
-                        <Link to='/web'>Ambassadors</Link>
-                        <Link to='/web'>Agency</Link>
-                        <Link to='/web'>Influencer</Link>
+                        <Link to='/'>Submit Video</Link>
+                        <Link to='/'>Ambassadors</Link>
+                        <Link to='/'>Agency</Link>
+                        <Link to='/'>Influencer</Link>
                     </div>
                     <div class='footer-link-items'>
                         <h2>Social Media</h2>
-                        <Link to='/web'>Instagram</Link>
-                        <Link to='/web'>Facebook</Link>
-                        <Link to='/web'>Youtube</Link>
-                        <Link to='/web'>Twitter</Link>
+                        <Link to='/'>Instagram</Link>
+                        <Link to='/'>Facebook</Link>
+                        <Link to='/'>Youtube</Link>
+                        <Link to='/'>Twitter</Link>
                     </div>
                 </div>
             </div>
